@@ -4,4 +4,4 @@ def handle(req):
         req (str): request body
     """
 	
-    return "I am " + req " from alauda.io"
+    return "I am " + req + " from alauda.io"
