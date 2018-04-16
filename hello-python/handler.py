@@ -3,5 +3,5 @@ def handle(req):
     Args:
         req (str): request body
     """
-
-    return req
+	
+    return "I am " + req " from alauda.io"
